@@ -1,3 +1,6 @@
+# Targets
+hexcrc
+
 # Prerequisites
 *.d
 
